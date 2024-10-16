@@ -1,0 +1,34 @@
+.container{
+	background-image: url(https://img.freepik.com/premium-photo/this-is-illustration-library-room-night-rendered-realistic-cartoon-style-which-makes-it-fantasy-scene-wallpaper-background-design_76964-132965.jpg);
+	font-size: 25px;
+	font-family: Brush Script MT;
+	text-align: center;
+}
+
+.Body{
+	background-color: #80ABB0;
+}
+
+.container1{
+	display: flex;
+	column-gap: 20px;
+	justify-content: center;
+}
+
+.container2{
+	background-color: #D3D3D3;
+	border-color: #304FAF;
+	border-style: dotted;
+	align-content: center;
+	text-align: center;
+}
+
+.container3{
+	background-color: #D3D3D3;
+	border-color: #304FAF;
+	border-style: dotted;
+	align-content: center;
+	text-align: center;
+	width: 350px;
+	margin: auto;
+}
